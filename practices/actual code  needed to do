@@ -1,3 +1,6 @@
-#VL 6th first python code
+#LL 6th first python code
 name = input("What's your name?")
+
 print(f"Nice to meet you, {name}!")
+
+#so is thoth writing this
