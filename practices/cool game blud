@@ -2,7 +2,8 @@ game = input("What's your favorite game? ")
 
 if game.lower() == "halo":
     print("Finally somebody with class")
-elif game.lower() == 'red dead redemption 2':
-    print ("fire game right")
+
 else:
     print("Stupid game buddy try Halo.")
+
+ 
