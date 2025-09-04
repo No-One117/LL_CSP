@@ -1,0 +1,9 @@
+game = input("What's your favorite game? ")
+
+if game.lower() == "halo":
+    print("Finally somebody with class")
+
+else:
+    print("Stupid game buddy try Halo.")
+
+ 
