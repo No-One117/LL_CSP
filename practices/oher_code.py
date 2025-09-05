@@ -8,10 +8,10 @@
 #
 
 # List ALL of the mathematical operators (Give me the symbol and tell me what it does)
-# +
-# -
-# *
-# /
+# + Adds
+# - Subtracts
+# * Multiply
+# / Divide
 #List ALL of the different assignment operators (Give me the symbols and what it does)
 #
 #Why are expressions so important in programming?
@@ -30,20 +30,37 @@ print("the average age is",average)
 
 
 #Math stuff ;(
-num_one = 12
-num_two = 4
+num_one = float(input("give me a number:\n"))
+num_two = int(input("give me a number:\n"))
 
-print("addition:",num_one + num_two)
-print("subtraction:",num_one - num_two)
-print("multiply:",num_one * num_two)
-print("divide:",num_one / num_two)
-print("exponents:",num_one ** num_two)
-print("integer division:",num_one // num_two)
-print("modulo (remainder):",num_two % num_one)
+print("addition(+):",num_one + num_two) #what needs rounded to how many decimals
+num_one += num_two
+print("subtraction(-):",num_one - num_two)
+num_one -= num_two
+print("multiply(*):",num_one * num_two)
+num_one *= num_two
+print("divide(/):",num_one / num_two)
+num_one /= num_two
+print("exponents(**):",num_one ** num_two)
+num_one **= num_two
+print("integer division(//):",num_one // num_two)
+num_one //= num_two
+print("modulo (remainder)(%):",num_two % num_one)
+num_one %= num_two
 
+# list all of the different assignment numbers
+# float is any number that has a decimal
+#
+#
+#
 
-
-
-
+#print("subtraction(-):",num_one - num_two)
+#num_one *= num_two
+#print("multiply(*):",num_one * num_two)
+#num_one /= num_two
+#print("exponents(**):",num_one ** num_two)
+#print("integer division(//):",num_one // num_two)
+#num_one //= num_two
+#print("modulo (remainder)(%):",num_two % num_one)
 
 
