@@ -8,7 +8,7 @@ Num = 500
 
 color = "purple"
 
-breakfast = ("I dont know")
+breakfast = ("I forgor")
 
 print (breakfast)
 
