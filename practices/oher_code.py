@@ -13,7 +13,15 @@
 # * Multiply
 # / Divide
 #List ALL of the different assignment operators (Give me the symbols and what it does)
-#
+#x = 5 assigns the value of 5 to x
+# x += 5 adds 5 to the current value of x
+# x -= 5 subtracts 5 from the current value of x
+# x *= 5 multiplies the current value of x by 5
+# x /= 5 divides the current value of x by 5
+# x **= 5 raises the current value of x to the power of 5
+# x //= 5 performs integer division on the current value of x by 5
+# x %= 5 assigns the remainder of the current value of x divided by 5
+#Why are expressions so important in programming?
 #Why are expressions so important in programming?
 
 person1 = 14
