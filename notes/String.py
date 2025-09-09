@@ -7,8 +7,9 @@
 #examples of strings
 name = input ("whats your name")
 print(f"Nice to meet you {name}")
-sentence = ("brown fox jumps over the lazy dog")
-
+sentence = ("the quick brown fox jumps over the lazy dog")
+print(sentence.find("brown"))
+print(sentence[10:15])
 
 # why do we have strings?
 
@@ -18,9 +19,14 @@ sentence = ("brown fox jumps over the lazy dog")
 
 #what is debugging
 #debugging is is fixing problems in my code!
+#a bug is any problem in code that makes code not run or run improperly
+#string = "this is an error'
    # syntax error
+#print(num_one + num_two)
    # logic error
-   #run-time error
+#letter = 'a'
+#int(letter)
+   # run-time error
 
 #how do you debug the differant typ of errors
  #find()
@@ -28,3 +34,15 @@ sentence = ("brown fox jumps over the lazy dog")
  # capitilize only first letter
 
 # upper makes all of the letters in an input statement uppercase and lower does it to lowercase
+
+#in programming counting starts at zero
+#concatinating = putting strings together
+#
+#
+#
+#
+
+
+
+
+
