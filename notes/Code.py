@@ -1,0 +1,3 @@
+#LL 6th first python code
+name = input("What's your name?")
+print(f"Nice to meet you, {name}!")
