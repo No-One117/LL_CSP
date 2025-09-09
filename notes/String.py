@@ -17,7 +17,10 @@ sentence = ("brown fox jumps over the lazy dog")
 
 
 #what is debugging
-#debugging is getting rid of bugs in your code
+#debugging is is fixing problems in my code!
+   # syntax error
+   # logic error
+   #run-time error
 
 #how do you debug the differant typ of errors
  #find()
