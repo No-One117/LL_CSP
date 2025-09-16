@@ -39,4 +39,4 @@ wingspeed  = input("What is the average wind velocity of an unladen swallow ")
 
 print(f"hello, {clean(name)} i have been trying to contact you about your cars extended warrenty no i dont care about you g{clean(quest)}, why did you tell me that the average wing speed of an unladen swallow is {clean(wingspeed)} i dont care ")
 
-believe("why do people like skibidi toilet?")
+#believe("why do people like skibidi toilet?")
