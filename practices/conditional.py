@@ -11,14 +11,14 @@ else:
 
 
 
-name = "john"
+name = input("please tell me your name")
 
-if name == ("johnathon"):
-    print("you are the chief")
+if name == ("goofy"):
+    print(f"i must say that is quite goofy Mr {name}")
 elif name == ("john"):
     print("hello cheif")
 else:
-    print(f"hello {name}, i dont know what you are")
+    print(f"hello {name}, nice to meat you")
 
 # What puts something inside of the “if” statement?
 
@@ -26,7 +26,7 @@ else:
 
 # What do if statements do?
 
-# if statements check if something is true and prints something because of it
+# if statements check if something is true and prints something because of it (if it is true)
 
 # What are boolean statements? 
 
@@ -50,6 +50,11 @@ else:
 # What are the 3 logical operators?
  
 # and,or,not
+num = 45
+if num >=0 and num < 10:
+    print(f"{num} is a single diget number")
+elif num <25 or num == 50:
+    print(f"{num} is a stupid number")
 
 # What are logical operators for?
 
@@ -57,4 +62,4 @@ else:
 
 # What does a nested conditional statement do?
 
-# allows a programto evaluate multiple condidtions sequentially
+# allows a program to evaluate multiple condidtions sequentially

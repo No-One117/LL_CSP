@@ -1,7 +1,5 @@
 #LL CS Silly sentences 6th
 
-# AB, Period 3, Silly Sentences Assignment
-
 # Get user inputs
 animal = input("Enter an animal: ")
 place = input("Enter a room that people often associate with bars: ")
