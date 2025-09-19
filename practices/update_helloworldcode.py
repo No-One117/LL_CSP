@@ -1,10 +1,9 @@
+# LL 6th Update Hello World Code
+
+# This function says hello to the name you give it
 def say_hello(name):
-  """Prints a greeting message to the given name."""
-  print(f"Hello, {name}!")
-
-# Call the function 5 times with different names from user input
-for i in range(5):
-  user_name = input(f"Enter name {i+1}: ")
-  say_hello(user_name)
-
-
+    print("Hello " + name)
+          
+for Name in range(5):
+    name = input("Enter a name: ")
+    say_hello(name)
