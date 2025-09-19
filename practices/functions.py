@@ -19,14 +19,37 @@ add()
 
 #Why we use functions
 
-#How to write a function in Python
+#Modularize code: Break down complex problems into smaller, manageable parts
+
+#How to write a function in Python\
+
+def greet(name):
+    print(f"Hello, {name}!")
+
 #What parameters and arguments are
+
 #Arguments are when we call the function and parameters are when we define the function
 
 #How to use parameters and arguments in python
+
+def add_numbers(num1, num2): # num1 and num2 are parameters
+    return num1 + num2
+
+result = add_numbers(5, 3) # 5 and 3 are arguments
+print(result) # Output: 8
+
 #What return statements are
+
+#A return statement is used within a function to send a value back to the caller.
+
 #How to use return statements in a program
 
+def multiply(a, b):
+    product = a * b
+    return product # Returns the calculated product
+
+value = multiply(4, 6)
+print(value) # Output: 24
 
 #indents must always match (for functions)
 
