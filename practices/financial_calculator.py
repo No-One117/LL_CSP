@@ -6,6 +6,6 @@ utilities = float(input("Enter your monthly utilities: "))
 groceries = float(input("Enter your monthly groceries: "))
 remaining_funds = income - rent - utilities - groceries
 
-print(f"Your Monthly Budget is {remaining_funds} ")
+print(f"Your Budget is {remaining_funds} ")
 print("Total income: $", income)
 print("Total expenses: $", rent + utilities + groceries)
