@@ -14,6 +14,7 @@ print(f"the hour is: {hour}")
 #What are the two types of loops?
 #for and while loops
 #What is iteration
+# repeating
 #What are lists? 
 
 
