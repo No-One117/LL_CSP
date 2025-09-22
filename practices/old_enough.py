@@ -4,8 +4,7 @@ age = int(input("Enter your age: "))
 
 if age >=21:
     print("your old enough to drink the fun juice")
-
-if age >= 18:
+elif age >= 18:
     print("You are old enough to vote, but not drink the fun juice")
 elif age >= 16:
     print("You are old enough to drive, but not old enough to vote.")

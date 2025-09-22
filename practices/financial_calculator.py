@@ -11,6 +11,6 @@ remaining_funds = calculate_budget(income, rent, utilities, groceries)
 
 
 
-print(f"Your Monthly Budget is {remaining_funds} ")
+print(f"Your Budget is {remaining_funds} ")
 print("Total income: $", income)
 print("Total expenses: $", rent + utilities + groceries)
