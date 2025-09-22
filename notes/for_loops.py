@@ -11,11 +11,13 @@ print(f"the time is: {current}")
 print(f"the hour is: {hour}")
 
 #What is a loop? 
+# repeating code``
 #What are the two types of loops?
-#for and while loops
+# for and while loops
 #What is iteration
 # repeating
 #What are lists? 
+# a collection of items
 
 
 family = ["morgan","parker","lucas"]
@@ -35,15 +37,19 @@ for x in range(1,5):
 
 # while loop ∞
 #while True:
-  #   print("OH GOD PLEASE")
+  #   print("OH NO")
 
 #iterator (keep track of loop)
 #
 
 # What is a loop? 
+# repeating code
 #How do you make lists in python? 
+# using square brackets []
 #How do you make for loops in python? 
+# using for condition:
 #How do you make while loops in python?
+# using while condition:
 #good y loop
 i = 1
 
