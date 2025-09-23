@@ -49,7 +49,7 @@ for x in range(1,5):
 #How do you make for loops in python? 
 # using for condition:
 #How do you make while loops in python?
-# using while condition:
+# using while condition: 
 #good y loop
 i = 1
 
